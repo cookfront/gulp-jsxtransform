@@ -1,6 +1,6 @@
 # gulp-jsxtransform
 
-Use `react-tools` to transform 'jsx' file.
+Use `react-tools` to transform `jsx` file.
 
 [![build status](https://travis-ci.org/cookfront/gulp-jsxtransform.svg)](https://travis-ci.org/cookfront/gulp-jsxtransform)
 
