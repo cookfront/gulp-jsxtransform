@@ -1,0 +1,4 @@
+test/
+coverage.html
+Makefile
+.travis.yml

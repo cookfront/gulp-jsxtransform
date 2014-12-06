@@ -1,0 +1,31 @@
+{
+  "name": "gulp-jsxtransform",
+  "version": "0.1.0",
+  "description": "gulp jsx transform plugin",
+  "main": "./index.js",
+  "homepage": "http://github.com/cookfront/gulp-jsxtransform",
+  "repository": "git://github.com/cookfront/gulp-jsxtransform.git",
+  "keywords": [
+    "gulpplugin",
+    "jsx",
+    "transform"
+  ],
+  "author": {
+    "name": "cookfront",
+    "email": "cookfront@gmail.com"
+  },
+  "dependencies": {
+    "through2": "^0.6.3",
+    "gulp-util": "^3.0.1",
+    "react-tools": "^0.12.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.3.0",
+    "istanbul": "^0.3.4",
+    "gulp": "^3.8.10"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
